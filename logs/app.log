@@ -1,0 +1,45 @@
+core [[32minfo[39m] 2024-09-24T06:26:57.707Z  This is a success test
+core [[33mwarn[39m] 2024-09-24T06:26:57.708Z  This is a warn test
+core [[31merror[39m] 2024-09-24T06:26:57.708Z  This is a error test
+core [[32minfo[39m] 2024-09-24T06:26:57.708Z  [Axios Request] POST - /posts
+core [[32minfo[39m] 2024-09-24T06:26:57.965Z  [Axios Response] Status: 201 - URL: /posts
+core [[32minfo[39m] 2024-09-24T06:26:57.965Z  Post created successfully
+core [[32minfo[39m] 2024-09-24T06:26:57.965Z  [Axios Request] GET - /posts/1
+core [[32minfo[39m] 2024-09-24T06:26:58.122Z  [Axios Response] Status: 200 - URL: /posts/1
+core [[32minfo[39m] 2024-09-24T06:26:58.122Z  Post with ID 1 retrieved successfully
+core [[32minfo[39m] 2024-09-24T06:26:58.123Z  [Axios Request] PUT - /posts/1
+core [[32minfo[39m] 2024-09-24T06:26:58.405Z  [Axios Response] Status: 200 - URL: /posts/1
+core [[32minfo[39m] 2024-09-24T06:26:58.405Z  Post with ID 1 updated successfully
+core [[32minfo[39m] 2024-09-24T06:26:58.406Z  [Axios Request] DELETE - /posts/1
+core [[32minfo[39m] 2024-09-24T06:26:58.658Z  [Axios Response] Status: 200 - URL: /posts/1
+core [[32minfo[39m] 2024-09-24T06:26:58.659Z  Post with ID 1 deleted successfully
+core [[32minfo[39m] 2024-09-24T06:27:43.084Z  This is a success test
+core [[33mwarn[39m] 2024-09-24T06:27:43.085Z  This is a warn test
+core [[31merror[39m] 2024-09-24T06:27:43.086Z  This is a error test
+core [[32minfo[39m] 2024-09-24T06:27:43.087Z  [Axios Request] POST - /posts
+core [[32minfo[39m] 2024-09-24T06:27:43.307Z  [Axios Response] Status: 201 - URL: /posts
+core [[32minfo[39m] 2024-09-24T06:27:43.308Z  Post created successfully
+core [[32minfo[39m] 2024-09-24T06:27:43.308Z  [Axios Request] GET - /posts/1
+core [[32minfo[39m] 2024-09-24T06:27:43.476Z  [Axios Response] Status: 200 - URL: /posts/1
+core [[32minfo[39m] 2024-09-24T06:27:43.476Z  Post with ID 1 retrieved successfully
+core [[32minfo[39m] 2024-09-24T06:27:43.477Z  [Axios Request] PUT - /posts/1
+core [[32minfo[39m] 2024-09-24T06:27:43.740Z  [Axios Response] Status: 200 - URL: /posts/1
+core [[32minfo[39m] 2024-09-24T06:27:43.740Z  Post with ID 1 updated successfully
+core [[32minfo[39m] 2024-09-24T06:27:43.741Z  [Axios Request] DELETE - /posts/1
+core [[32minfo[39m] 2024-09-24T06:27:43.935Z  [Axios Response] Status: 200 - URL: /posts/1
+core [[32minfo[39m] 2024-09-24T06:27:43.935Z  Post with ID 1 deleted successfully
+core [[32minfo[39m] 2024-09-24T06:29:47.060Z  This is a success test
+core [[33mwarn[39m] 2024-09-24T06:29:47.062Z  This is a warn test
+core [[31merror[39m] 2024-09-24T06:29:47.062Z  This is a error test
+core [[32minfo[39m] 2024-09-24T06:29:47.065Z  [Axios Request] POST - /posts
+core [[32minfo[39m] 2024-09-24T06:29:47.348Z  [Axios Response] Status: 201 - URL: /posts
+core [[32minfo[39m] 2024-09-24T06:29:47.349Z  Post created successfully
+core [[32minfo[39m] 2024-09-24T06:29:47.349Z  [Axios Request] GET - /posts/1
+core [[32minfo[39m] 2024-09-24T06:29:47.522Z  [Axios Response] Status: 200 - URL: /posts/1
+core [[32minfo[39m] 2024-09-24T06:29:47.522Z  Post with ID 1 retrieved successfully
+core [[32minfo[39m] 2024-09-24T06:29:47.523Z  [Axios Request] PUT - /posts/1
+core [[32minfo[39m] 2024-09-24T06:29:47.777Z  [Axios Response] Status: 200 - URL: /posts/1
+core [[32minfo[39m] 2024-09-24T06:29:47.777Z  Post with ID 1 updated successfully
+core [[32minfo[39m] 2024-09-24T06:29:47.777Z  [Axios Request] DELETE - /posts/1
+core [[32minfo[39m] 2024-09-24T06:29:47.970Z  [Axios Response] Status: 200 - URL: /posts/1
+core [[32minfo[39m] 2024-09-24T06:29:47.970Z  Post with ID 1 deleted successfully
